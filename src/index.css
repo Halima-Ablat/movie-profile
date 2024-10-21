@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid rgb(240, 235, 235);
+  text-align: center;
+  width: 500px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.card img {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+}
